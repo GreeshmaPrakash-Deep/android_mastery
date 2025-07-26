@@ -1,0 +1,4 @@
+<resources>
+    <!--Replace with your app name-->
+    <string name="app_name">Basic App Template</string>
+</resources>
